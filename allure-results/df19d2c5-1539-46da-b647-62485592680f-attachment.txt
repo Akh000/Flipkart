@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Category_Search:test_category.py:71 Browser is opening
+[32mINFO    [0m Test_Category_Search:test_category.py:73 Enter the URL
+[32mINFO    [0m Test_Category_Search:test_category.py:75 Object is creating for Category_wise_Search  class
+[32mINFO    [0m Test_Category_Search:test_category.py:77 Calling home_furniture_furnishing method

@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Category_Search:test_category.py:86 Browser is opening
+[32mINFO    [0m Test_Category_Search:test_category.py:88 Enter the URL
+[32mINFO    [0m Test_Category_Search:test_category.py:90 Object is creating for Category_wise_Search  class
+[32mINFO    [0m Test_Category_Search:test_category.py:92 Calling customer_support_three method

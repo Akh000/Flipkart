@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Category_Search:test_category.py:13 Browser is opening
+[32mINFO    [0m Test_Category_Search:test_category.py:15 Enter the URL
+[32mINFO    [0m Test_Category_Search:test_category.py:17 Object is creating for Category_wise_Search  class
+[32mINFO    [0m Test_Category_Search:test_category.py:19 Calling grocery_links method

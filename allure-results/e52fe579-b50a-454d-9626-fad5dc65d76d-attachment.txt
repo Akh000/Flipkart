@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_search:test_search.py:13 Browser is opening
+[32mINFO    [0m Test_search:test_search.py:15 Enter the URL
+[32mINFO    [0m Test_search:test_search.py:17 Object is creating for Search_Option class
+[32mINFO    [0m Test_search:test_search.py:19 Calling search_option method

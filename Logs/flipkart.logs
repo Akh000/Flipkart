@@ -1,0 +1,96 @@
+2024-02-09 15:39:37,770 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-02-09 15:39:37,770 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-02-09 15:39:42,289 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:39:42,290 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-02-09 15:39:45,372 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-02-09 15:39:45,372 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-02-09 15:39:47,922 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:39:47,922 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-02-09 15:39:51,881 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-02-09 15:39:51,881 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-02-09 15:39:54,201 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:39:54,202 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-02-09 15:39:58,750 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-02-09 15:39:58,750 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-02-09 15:40:01,121 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:40:01,121 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-02-09 15:40:04,225 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-02-09 15:40:04,225 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-02-09 15:40:06,777 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:40:06,777 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-02-09 15:40:10,035 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-02-09 15:40:10,035 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-02-09 15:40:13,020 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:40:13,021 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-02-09 15:40:16,432 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-02-09 15:40:16,432 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-02-09 15:40:19,266 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-02-09 15:40:19,266 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-02-09 15:40:26,824 : Test_Broken_link_text_images : test_Broken_Images : 33 : Browser is opening : 
+2024-02-09 15:40:26,824 : Test_Broken_link_text_images : test_Broken_Images : 35 : Enter the URL : 
+2024-02-09 15:40:29,637 : Test_Broken_link_text_images : test_Broken_Images : 37 : Object is creating for Search_Option class : 
+2024-02-09 15:40:29,637 : Test_Broken_link_text_images : test_Broken_Images : 39 : Getting Broken Images : 
+2024-02-09 15:40:33,586 : Test_Broken_link_text_images : test_Broken_Links : 44 : Browser is opening : 
+2024-02-09 15:40:33,586 : Test_Broken_link_text_images : test_Broken_Links : 46 : Enter the URL : 
+2024-02-09 15:40:35,867 : Test_Broken_link_text_images : test_Broken_Links : 48 : Object is creating for Search_Option class : 
+2024-02-09 15:40:35,867 : Test_Broken_link_text_images : test_Broken_Links : 50 : Getting Broken links : 
+2024-02-09 15:47:13,578 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-02-09 15:47:13,578 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-02-09 15:47:15,959 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:15,961 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-02-09 15:47:19,692 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-02-09 15:47:19,692 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-02-09 15:47:22,102 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:22,102 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-02-09 15:47:25,707 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-02-09 15:47:25,707 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-02-09 15:47:27,956 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:27,956 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-02-09 15:47:35,157 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-02-09 15:47:35,157 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-02-09 15:47:37,693 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:37,693 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-02-09 15:47:41,005 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-02-09 15:47:41,005 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-02-09 15:47:43,488 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:43,489 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-02-09 15:47:46,827 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-02-09 15:47:46,827 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-02-09 15:47:49,202 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:47:49,202 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-02-09 15:47:52,208 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-02-09 15:47:52,208 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-02-09 15:47:54,583 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-02-09 15:47:54,584 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-02-09 15:48:48,914 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-02-09 15:48:48,914 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-02-09 15:48:51,704 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-02-09 15:48:51,704 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-02-09 15:54:05,130 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-02-09 15:54:05,130 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-02-09 15:54:07,528 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:07,528 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-02-09 15:54:10,447 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-02-09 15:54:10,447 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-02-09 15:54:12,920 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:12,920 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-02-09 15:54:16,875 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-02-09 15:54:16,875 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-02-09 15:54:19,674 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:19,674 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-02-09 15:54:27,166 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-02-09 15:54:27,166 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-02-09 15:54:29,584 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:29,585 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-02-09 15:54:32,677 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-02-09 15:54:32,677 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-02-09 15:54:35,003 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:35,004 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-02-09 15:54:38,350 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-02-09 15:54:38,350 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-02-09 15:54:43,701 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-02-09 15:54:43,701 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-02-09 15:54:46,831 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-02-09 15:54:46,831 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-02-09 15:54:49,557 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-02-09 15:54:49,557 : Test_search : test_search_001 : 19 : Calling search_option method : 

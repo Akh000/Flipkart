@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Category_Search:test_category.py:56 Browser is opening
+[32mINFO    [0m Test_Category_Search:test_category.py:58 Enter the URL
+[32mINFO    [0m Test_Category_Search:test_category.py:60 Object is creating for Category_wise_Search  class
+[32mINFO    [0m Test_Category_Search:test_category.py:62 Calling electronic method

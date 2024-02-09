@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Category_Search:test_category.py:27 Browser is opening
+[32mINFO    [0m Test_Category_Search:test_category.py:29 Enter the URL
+[32mINFO    [0m Test_Category_Search:test_category.py:31 Object is creating for Category_wise_Search  class
+[32mINFO    [0m Test_Category_Search:test_category.py:33 Calling mobile_phones method
