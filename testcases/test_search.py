@@ -18,7 +18,7 @@ class Test_search:
         self.se = Search_Option(self.driver)
         self.logs.info("Calling search_option method")
         self.se.search_option('shoes')
-        print(self.driver.title)
+        self.driver.save_screenshot("D:\\Python\\Flipkart\\Screenshot\\fail_test_search.png")
         if self.driver.title == "Shoes Kids- Buy Products Online at Best Price in India - All Categories | Flipkart.com":
             assert True
         else:
