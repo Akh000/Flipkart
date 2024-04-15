@@ -1,0 +1,1 @@
+pytest -v --html=HTMLReports\Report.html --alluredir="allure-result" testcases

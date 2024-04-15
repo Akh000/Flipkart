@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:48 Browser is opening
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:50 Opening application link
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:52 Calling sanity_testing object class
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:54 Getting search input box ouput
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:56 Assert search

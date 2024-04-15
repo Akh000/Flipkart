@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:35 Browser is opening
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:37 Opening application link
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:39 Calling sanity_testing object class
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:41 Getting login_status
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:43 Asserting login_status

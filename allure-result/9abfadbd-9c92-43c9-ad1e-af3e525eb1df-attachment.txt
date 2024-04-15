@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:15 Browser is opening
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:17 Get response from application link
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:19 Validating response code with expected code

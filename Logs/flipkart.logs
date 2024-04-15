@@ -42,3 +42,91 @@
 2024-04-08 14:51:27,750 : Test_search : test_search_001 : 15 : Enter the URL : 
 2024-04-08 14:51:28,601 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
 2024-04-08 14:51:28,602 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-04-15 14:47:39,958 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-04-15 14:47:39,958 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-04-15 14:47:44,872 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:47:44,880 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-04-15 14:47:48,050 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-04-15 14:47:48,050 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-04-15 14:47:50,721 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:47:50,721 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-04-15 14:47:54,257 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-04-15 14:47:54,257 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-04-15 14:47:58,121 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:47:58,129 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-04-15 14:48:08,695 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-04-15 14:48:08,695 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-04-15 14:48:16,110 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:48:16,116 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-04-15 14:48:22,955 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-04-15 14:48:22,955 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-04-15 14:48:26,668 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:48:26,668 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-04-15 14:48:33,022 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-04-15 14:48:33,022 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-04-15 14:48:33,897 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-04-15 14:48:33,897 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-04-15 14:48:46,033 : Test_sanity : test_product_link : 15 : Browser is opening : 
+2024-04-15 14:48:46,033 : Test_sanity : test_product_link : 17 : Get response from application link : 
+2024-04-15 14:48:47,071 : Test_sanity : test_product_link : 19 : Validating response code with expected code : 
+2024-04-15 14:48:49,618 : Test_sanity : test_home_page : 24 : Browser is opening : 
+2024-04-15 14:48:49,618 : Test_sanity : test_home_page : 26 : Opening application link : 
+2024-04-15 14:48:57,891 : Test_sanity : test_home_page : 29 : Asserting home page title : 
+2024-04-15 14:49:00,986 : Test_sanity : test_login_button : 35 : Browser is opening : 
+2024-04-15 14:49:00,986 : Test_sanity : test_login_button : 37 : Opening application link : 
+2024-04-15 14:49:04,714 : Test_sanity : test_login_button : 39 : Calling sanity_testing object class : 
+2024-04-15 14:49:04,714 : Test_sanity : test_login_button : 41 : Getting login_status : 
+2024-04-15 14:49:04,806 : Test_sanity : test_login_button : 43 : Asserting login_status : 
+2024-04-15 14:49:08,513 : Test_sanity : test_search_box : 48 : Browser is opening : 
+2024-04-15 14:49:08,513 : Test_sanity : test_search_box : 50 : Opening application link : 
+2024-04-15 14:49:12,198 : Test_sanity : test_search_box : 52 : Calling sanity_testing object class : 
+2024-04-15 14:49:12,198 : Test_sanity : test_search_box : 54 : Getting search input box ouput : 
+2024-04-15 14:49:12,506 : Test_sanity : test_search_box : 56 : Assert search : 
+2024-04-15 14:49:15,420 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-04-15 14:49:15,420 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-04-15 14:49:23,410 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-04-15 14:49:23,410 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-04-15 15:02:00,509 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-04-15 15:02:00,509 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-04-15 15:02:05,995 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:05,995 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-04-15 15:02:09,915 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-04-15 15:02:09,915 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-04-15 15:02:13,079 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:13,079 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-04-15 15:02:17,520 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-04-15 15:02:17,520 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-04-15 15:02:20,777 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:20,777 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-04-15 15:02:26,772 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-04-15 15:02:26,772 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-04-15 15:02:27,924 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:27,924 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-04-15 15:02:35,126 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-04-15 15:02:35,126 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-04-15 15:02:41,720 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:41,720 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-04-15 15:02:47,736 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-04-15 15:02:47,736 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-04-15 15:02:51,419 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-04-15 15:02:51,420 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-04-15 15:02:55,704 : Test_sanity : test_product_link : 15 : Browser is opening : 
+2024-04-15 15:02:55,704 : Test_sanity : test_product_link : 17 : Get response from application link : 
+2024-04-15 15:02:56,541 : Test_sanity : test_product_link : 19 : Validating response code with expected code : 
+2024-04-15 15:02:59,052 : Test_sanity : test_home_page : 24 : Browser is opening : 
+2024-04-15 15:02:59,052 : Test_sanity : test_home_page : 26 : Opening application link : 
+2024-04-15 15:03:02,543 : Test_sanity : test_home_page : 29 : Asserting home page title : 
+2024-04-15 15:03:05,334 : Test_sanity : test_login_button : 35 : Browser is opening : 
+2024-04-15 15:03:05,334 : Test_sanity : test_login_button : 37 : Opening application link : 
+2024-04-15 15:03:14,462 : Test_sanity : test_login_button : 39 : Calling sanity_testing object class : 
+2024-04-15 15:03:14,463 : Test_sanity : test_login_button : 41 : Getting login_status : 
+2024-04-15 15:03:14,566 : Test_sanity : test_login_button : 43 : Asserting login_status : 
+2024-04-15 15:03:16,977 : Test_sanity : test_search_box : 48 : Browser is opening : 
+2024-04-15 15:03:16,977 : Test_sanity : test_search_box : 50 : Opening application link : 
+2024-04-15 15:03:21,101 : Test_sanity : test_search_box : 52 : Calling sanity_testing object class : 
+2024-04-15 15:03:21,101 : Test_sanity : test_search_box : 54 : Getting search input box ouput : 
+2024-04-15 15:03:21,409 : Test_sanity : test_search_box : 56 : Assert search : 
+2024-04-15 15:03:24,047 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-04-15 15:03:24,047 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-04-15 15:03:32,714 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-04-15 15:03:32,714 : Test_search : test_search_001 : 19 : Calling search_option method : 

@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:24 Browser is opening
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:26 Opening application link
+[32mINFO    [0m Test_sanity:test_sanity_testing.py:29 Asserting home page title
