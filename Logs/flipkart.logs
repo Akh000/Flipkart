@@ -130,3 +130,47 @@
 2024-04-15 15:03:24,047 : Test_search : test_search_001 : 15 : Enter the URL : 
 2024-04-15 15:03:32,714 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
 2024-04-15 15:03:32,714 : Test_search : test_search_001 : 19 : Calling search_option method : 
+2024-06-17 19:02:29,848 : Test_Category_Search : test_grocery : 13 : Browser is opening : 
+2024-06-17 19:02:29,848 : Test_Category_Search : test_grocery : 15 : Enter the URL : 
+2024-06-17 19:02:34,638 : Test_Category_Search : test_grocery : 17 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:34,639 : Test_Category_Search : test_grocery : 19 : Calling grocery_links method : 
+2024-06-17 19:02:37,514 : Test_Category_Search : test_mobile_phones : 27 : Browser is opening : 
+2024-06-17 19:02:37,514 : Test_Category_Search : test_mobile_phones : 29 : Enter the URL : 
+2024-06-17 19:02:39,773 : Test_Category_Search : test_mobile_phones : 31 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:39,774 : Test_Category_Search : test_mobile_phones : 33 : Calling mobile_phones method : 
+2024-06-17 19:02:41,398 : Test_Category_Search : test_fashion : 41 : Browser is opening : 
+2024-06-17 19:02:41,398 : Test_Category_Search : test_fashion : 43 : Enter the URL : 
+2024-06-17 19:02:43,650 : Test_Category_Search : test_fashion : 45 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:43,651 : Test_Category_Search : test_fashion : 47 : Calling fashion method : 
+2024-06-17 19:02:45,396 : Test_Category_Search : test_electronic : 56 : Browser is opening : 
+2024-06-17 19:02:45,396 : Test_Category_Search : test_electronic : 58 : Enter the URL : 
+2024-06-17 19:02:47,872 : Test_Category_Search : test_electronic : 60 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:47,872 : Test_Category_Search : test_electronic : 62 : Calling electronic method : 
+2024-06-17 19:02:49,562 : Test_Category_Search : test_home_furniture : 71 : Browser is opening : 
+2024-06-17 19:02:49,562 : Test_Category_Search : test_home_furniture : 73 : Enter the URL : 
+2024-06-17 19:02:52,966 : Test_Category_Search : test_home_furniture : 75 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:52,966 : Test_Category_Search : test_home_furniture : 77 : Calling home_furniture_furnishing method : 
+2024-06-17 19:02:54,664 : Test_Category_Search : test_customer_support : 86 : Browser is opening : 
+2024-06-17 19:02:54,664 : Test_Category_Search : test_customer_support : 88 : Enter the URL : 
+2024-06-17 19:02:56,918 : Test_Category_Search : test_customer_support : 90 : Object is creating for Category_wise_Search  class : 
+2024-06-17 19:02:56,918 : Test_Category_Search : test_customer_support : 92 : Calling customer_support_three method : 
+2024-06-17 19:03:00,043 : Test_sanity : test_product_link : 15 : Browser is opening : 
+2024-06-17 19:03:00,043 : Test_sanity : test_product_link : 17 : Get response from application link : 
+2024-06-17 19:03:00,371 : Test_sanity : test_product_link : 19 : Validating response code with expected code : 
+2024-06-17 19:03:02,028 : Test_sanity : test_home_page : 24 : Browser is opening : 
+2024-06-17 19:03:02,028 : Test_sanity : test_home_page : 26 : Opening application link : 
+2024-06-17 19:03:04,446 : Test_sanity : test_home_page : 29 : Asserting home page title : 
+2024-06-17 19:03:06,113 : Test_sanity : test_login_button : 35 : Browser is opening : 
+2024-06-17 19:03:06,113 : Test_sanity : test_login_button : 37 : Opening application link : 
+2024-06-17 19:03:08,454 : Test_sanity : test_login_button : 39 : Calling sanity_testing object class : 
+2024-06-17 19:03:08,455 : Test_sanity : test_login_button : 41 : Getting login_status : 
+2024-06-17 19:03:08,519 : Test_sanity : test_login_button : 43 : Asserting login_status : 
+2024-06-17 19:03:10,146 : Test_sanity : test_search_box : 48 : Browser is opening : 
+2024-06-17 19:03:10,146 : Test_sanity : test_search_box : 50 : Opening application link : 
+2024-06-17 19:03:12,816 : Test_sanity : test_search_box : 52 : Calling sanity_testing object class : 
+2024-06-17 19:03:12,817 : Test_sanity : test_search_box : 54 : Getting search input box ouput : 
+2024-06-17 19:03:12,869 : Test_sanity : test_search_box : 56 : Assert search : 
+2024-06-17 19:03:14,460 : Test_search : test_search_001 : 13 : Browser is opening : 
+2024-06-17 19:03:14,460 : Test_search : test_search_001 : 15 : Enter the URL : 
+2024-06-17 19:03:16,869 : Test_search : test_search_001 : 17 : Object is creating for Search_Option class : 
+2024-06-17 19:03:16,870 : Test_search : test_search_001 : 19 : Calling search_option method : 
